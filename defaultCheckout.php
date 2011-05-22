@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 // Retrieve the URL variables (using PHP).     
+=======
+// Retrieve the URL variables (using PHP).
+>>>>>>> e9f28dfb056cf164c4196d691514061a2476bd20
 $ariassemblyid = $_GET['ariassemblyid'];
 $arisku = $_GET['arisku'];
 $ariprice = $_GET['ariprice'];
@@ -8,6 +12,10 @@ $ariparentassemblyid = $_GET['ariparentassemblyid'];
 $aripartid = $_GET['aripartid'];	
 $ariqty=$_GET['ariqty'];	
 ?>
+<<<<<<< HEAD
+=======
+
+>>>>>>> e9f28dfb056cf164c4196d691514061a2476bd20
 <html>
 <head>
 <title>Parts Search</title>
